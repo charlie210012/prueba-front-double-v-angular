@@ -6,22 +6,20 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Instalacion 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. Clonar el repositorio https://github.com/charlie210012/prueba-front-double-v-angular.git
 
-## Build
+2. Correr npm install
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+3. correr el comando ng serve
 
-## Running unit tests
+## Muestra de funcionalidad en produccion.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Aqui puedes revisar directamente el desarrollo desplegado en un
+entorno de servidores
 
-## Running end-to-end tests
+`https://prueba-front-double-vu-angular.carlosandresarevalo.com/`
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
